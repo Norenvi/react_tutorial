@@ -1,3 +1,4 @@
+// Timecode : 1:27:20
 import React from "react";
 import ReactDOM from "react-dom/client";
 
@@ -9,7 +10,6 @@ function Greeting() {
         </div>
     );
 }
-
 const Person = () => <h2>john doe</h2>;
 const Message = () => {
     return <p>this is my message</p>;
